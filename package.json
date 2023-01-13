@@ -1,6 +1,6 @@
 {
   "name": "@wibmw/custom-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom element to build a custom form with data validation easily",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
